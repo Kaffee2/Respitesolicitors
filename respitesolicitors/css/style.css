@@ -76,12 +76,12 @@ a:focus {
 /**********************************/
 .top-bar {
     position: relative;
-    height: 100px;
+    height: 80px;
     background: #000000;
 }
 
 .top-bar .logo {
-    padding: 15px 0 ;
+    padding: 3px 0 ;
     text-align: left;
     overflow: hidden;
 }
@@ -96,7 +96,7 @@ a:focus {
 
 .top-bar .logo img {
     max-width: 100%;
-    max-height: 150px;
+    max-height: 80px;
 }
 
 .top-bar .top-bar-right {
@@ -143,7 +143,7 @@ a:focus {
     align-items: center;
     justify-content: center;
     width: 60px;
-    height: 100%;
+    height: 80px;
     font-size: 22px;
     color: #ffffff;
     border-right: 1px solid rgba(255, 255, 255, .15);
